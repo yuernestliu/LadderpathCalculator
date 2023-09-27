@@ -26,7 +26,7 @@ strsLP.POM
 
 Inspecting the partially ordered multiset of the ladderpath for this sequence can also be achieved by directly calling the *POM* property within *strsLP*, which facilitates subsequent processing.
 
-## To get ladderpath-index, order-index, and size-index, use:
+## To get *ladderpath-index*, *order-index*, and *size-index*, use:
 
 ```python
 strsLP.disp3index()
@@ -38,7 +38,7 @@ strsLP.index3
 
 Reviewing the three indicators associated with the ladderpath of this sequence (ladderpath-index $\lambda$, order-index $\omega$, and size-index $S$) can also be accomplished by directly accessing the *index3* property within *strsLP*, which facilitates subsequent processing.
 
-## To get order-rate, use:
+## To get *order-rate*, use:
 
 ```python
 strsLP.getEta(nBase=4)
