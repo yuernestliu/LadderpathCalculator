@@ -1,8 +1,0 @@
-ladderpath_data_omega0/ Contained within the index is the comprehensive data pertaining to omega0
-
-  - The subdirectories are categorized by nBase
-    
-    - Within are the files v1.csv, v2.csv, v3.csv, and so forth. The file with the highest numeral denotes the most recent data
-
-    - Additionally, there is a directory named 'OriginalData/' which houses the raw data for all vn.csv versions
-
