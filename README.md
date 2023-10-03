@@ -33,7 +33,7 @@ This repository contains codes and data associated with the paper "**Evolutionar
 
 ## Usage
 
-For a quick start on how to use the ladderpath calculation tool, navigate to the "Ladderpath-codes" folder and see the provided README for more detailed usage and options. Quick example:
+For a quick start on how to use the ladderpath calculation tool, navigate to the **LadderpathCalculator** folder and see the provided README for more detailed usage and options. Quick example:
 
 ```python
 import ladderpath
