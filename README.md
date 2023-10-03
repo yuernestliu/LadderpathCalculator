@@ -9,7 +9,14 @@ This repository contains codes and data associated with the paper "**Evolutionar
 
 
 ## Repository Structure
-- The folder **Ladderpath-codes**: Contains scripts and data for calculating the ladderpath, including:
+- The folder **Data**: Contains all the data generated and other associated scripts:
+
+    - *six_proteome_output_fig6a.txt*: It records the ladderpath-associated indicators for every protein shown in Fig. 6 of the main text.
+
+    - *cal_Rk.py*: Script to calculate $R_k$, which was used in Fig. 3 of the main text.
+
+
+- The folder **LadderpathCalculator**: Contains scripts and data for calculating the ladderpath, including:
 
     - *README.md*: Instructions on how to use the ladderpath calculation tool.
 
@@ -18,11 +25,10 @@ This repository contains codes and data associated with the paper "**Evolutionar
     - *ladderpath_data_omega0*: The folder containing supporting data for *ladderpath.py*. Do not modify.
 
 
-- The folder **Data**: Contains all the data generated and other associated scripts:
+- The folder **LadderpathCalculator-InclOrigData**: Normally, you do not need this folder. 
+    > This folder is intended for developers who wish to contribute to calculating $\omega_0$ for large $S$. This folder contains the same files as the *LadderpathCalculator* folder. Additionally, within *ladderpath_data_omega0/nBase2/* (*ladderpath_data_omega0/nBase4/*, *ladderpath_data_omega0/nBase10/*, etc.), there is a folder named *OriginalData* which describes how the corresponding .csv file (namely, $\omega_0(S)$) was calculated.
 
-    - *six_proteome_output_fig6a.txt*: It records the ladderpath-associated indicators for every protein shown in Fig. 6 of the main text.
 
-    - *cal_Rk.py*: Script to calculate $R_k$, which was used in Fig. 3 of the main text.
 
 
 ## Usage
