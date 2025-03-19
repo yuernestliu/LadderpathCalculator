@@ -1,11 +1,9 @@
-# Ladderpath Calculator
-
-Repository associated with the research paper on the hierarchical and nested structures in amino acid sequences.
-
+# LadderpathCalculator_v1.0
 
 ## Introduction
+Repository associated with the research paper "Evolutionary tinkering enriches the hierarchical and nested structures in amino acid sequences, Physical Review Research, 6: 023215, 2024" (https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.023215) on the hierarchical and nested structures in amino acid sequences. This paper is first available online on 2023.10.15 (https://www.researchsquare.com/article/rs-3440555/v1).
 
-This repository contains codes and data associated with the paper "**Evolutionary Tinkering Enriches the Hierarchical and Nested Structures in Amino Acid Sequences, 2023**" by Zecheng Zhang et al. This repository serves as a supplement, providing the necessary tools (also useful tools for you to calculate the ladderpath of sequences) and datasets to understand and replicate our findings.
+This repository serves as a supplement, providing the necessary tools (also useful tools for you to calculate the ladderpath of sequences) and datasets to understand and replicate our findings.
 
 
 ## Repository Structure
